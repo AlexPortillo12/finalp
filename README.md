@@ -1,4 +1,4 @@
-# Enhanced Blackjack Calculator README
+# Enhanced Blackjack Calculator 
 
 ## Overview
 This enhanced Blackjack calculator for R is designed to help players make better strategic decisions by incorporating basic Blackjack strategies along with a card counting feature using the Hi-Lo system. It is adjusted for multiple deck games and provides advice based on the current card count and the composition of remaining cards in the deck.
